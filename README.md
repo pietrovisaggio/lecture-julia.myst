@@ -134,7 +134,3 @@ jb clean lectures --all
 After execution, you can find the generated `.ipynb` and `.jl` files in `_build/jupyter_execute` for each lecture.
 - To see errors, you can open these in JupyterLab, the Jupyter support within VS Code, etc.
 - If using the Julia REPL in VS Code, make sure to do `] activate lectures` prior to testing to ensure the packages are activated.  This is not necessary when opening in Jupyter.
-
-try
-
-again
